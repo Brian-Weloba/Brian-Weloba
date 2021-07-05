@@ -13,6 +13,8 @@ Something about myself
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ![Brian's GitHub stats](https://ionicabizau.github.io/github-profile-languages/api.html?brian-weloba) -->
 
 # Tech Stack
