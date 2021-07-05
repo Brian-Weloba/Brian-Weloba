@@ -14,12 +14,12 @@ Something about myself
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&theme=algolia" />
 </a>
 <a href="https://github.com/brian-weloba">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact&theme=algolia" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact&theme=darkhub" />
 </a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- [![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats) -->
