@@ -3,6 +3,8 @@
 <!-- [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+
 
 
 <!--
