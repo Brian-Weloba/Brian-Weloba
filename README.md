@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?brian-weloba" frameborder="0"></iframe>
 
 <!--
 **Brian-Weloba/Brian-Weloba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
