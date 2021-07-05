@@ -7,18 +7,16 @@ Something about myself
 # Status
 
 <!-- [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats) -->
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&theme=darkhub)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/brian-weloba">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/brian-weloba">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&theme=algolia" />
 </a>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats) -->
