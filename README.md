@@ -5,6 +5,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
+![Brian's GitHub stats](https://ionicabizau.github.io/github-profile-languages/api.html?brian-weloba)
+
 
 
 <!--
