@@ -11,9 +11,9 @@ Something about myself
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Brian's GitHub stats](https://ionicabizau.github.io/github-profile-languages/api.html?brian-weloba) -->
 
