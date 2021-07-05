@@ -13,6 +13,9 @@ Something about myself
 <a href="https://github.com/brian-weloba">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&theme=algolia" />
 </a>
+<a href="https://github.com/brian-weloba">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact&theme=algolia" />
+</a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
