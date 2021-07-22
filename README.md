@@ -2,7 +2,7 @@
 
 # About myself
 
-Something about myself
+I am a Designer/Developer who loves creating and building new experiences.
 
 # Status
 
