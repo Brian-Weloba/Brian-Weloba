@@ -51,7 +51,8 @@ I am a budding Designer/Developer and general tinkerer.
 
 <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
 
-### Deployment Platforms
+### Frameworks
+
 
 
 
