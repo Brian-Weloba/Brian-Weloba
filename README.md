@@ -2,7 +2,14 @@
 
 # About myself
 
-I am a Designer/Developer who loves creating and building new experiences.
+I am a budding Designer/Developer and general tinkerer.
+
+🔭 I’m currently working on Andriod Casting with DRM protection
+
+🌱 I’m currently learning Python/Flask/Django
+
+⚡ Fun fact: My middle name is Nyongesa which means I was born on a Saturday
+
 
 # Status
 
