@@ -1,14 +1,12 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-# About myself
+I am Brian, a budding Designer/Developer and general tinkerer.
 
-I am a budding Designer/Developer and general tinkerer.
+🔭 I’m currently working on Andriod Casting with DRM protection.
 
-🔭 I’m currently working on Andriod Casting with DRM protection
+🌱 I’m learning Spring framework.
 
-🌱 I’m learning Python/Flask/Django
-
-⚡ Fun fact: My middle name is Nyongesa which means I was born on a Saturday
+⚡ Fun fact: My middle name, Nyongesa, means I was born on a Saturday.
 
 
 # Status
