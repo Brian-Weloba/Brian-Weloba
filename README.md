@@ -2,9 +2,9 @@
 
 I am Brian, a budding Designer/Developer and general tinkerer.
 
-🔭 I’m currently working on Andriod Casting with DRM protection.
+🔭 I’m currently working on a payment microservice with spring boot.
 
-🌱 I’m learning Spring framework.
+🌱 I’m learning Spring, C# and CI/CD.
 
 ⚡ Fun fact: My middle name, Nyongesa, means I was born on a Saturday.
 
