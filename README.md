@@ -4,7 +4,7 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 
 🔭 I’m currently working on microservices with spring boot.
 
-🌱 I’m learning Spring, C# and AWS
+🌱 I’m learning Spring, Wordpress, C# and AWS
 
 ⚡ Fun fact: My middle name, Nyongesa, means I was born on a Saturday.
 
