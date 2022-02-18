@@ -27,7 +27,7 @@ I am Brian, a budding Designer/Developer and general tinkerer.
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a> -->
 <a href="https://github.com/brian-weloba">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeters&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <!-- 
 ![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
