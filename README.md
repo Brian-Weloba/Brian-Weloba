@@ -12,7 +12,7 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://now-playing-rab23io2s-brian-weloba.vercel.app/now-playing?open"><img src="https://now-playing-rab23io2s-brian-weloba.vercel.app/now-playing" width="540" height="64"></a> |
+| <a href="https://now-playing-sooty.vercel.app/now-playing?open"><img src="https://now-playing-sooty.vercel.app/now-playing" width="540" height="64"></a> |
 
 
 
