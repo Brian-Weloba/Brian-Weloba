@@ -9,7 +9,7 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 ⚡ Fun fact: My middle name, Nyongesa, means I was born on a Saturday.
 
 # Vibe with me
-Now Playing: <a href="https://now-playing-sooty.vercel.app/now-playing?open"><img src="https://now-playing-sooty.vercel.app/now-playing" width="1000" height="64"></a>
+<img src="spotify.png"  height="24">  Now Playing: <a href="https://now-playing-sooty.vercel.app/now-playing?open"><img src="https://now-playing-sooty.vercel.app/now-playing" width="1000" height="64"></a>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cd35kqylcwjxlve5eg4ccnhw4m&unique={true|1|on|yes}&width=1000)
 
@@ -27,37 +27,6 @@ Now Playing: <a href="https://now-playing-sooty.vercel.app/now-playing?open"><im
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=e64719&icon_color=e64719&bg_color=0D1117" alt="Martin's GitHub Stats" />
 </a>
 
-<!-- 
-# Status
-
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- 
-[![Brian's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!-- 
-
-<a href="https://github.com/brian-weloba">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/brian-weloba">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a> -->
-<!-- <a href="https://github.com/brian-weloba">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a> -->
-<!-- 
-![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!-- [![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian-weloba)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![Brian's GitHub stats](https://ionicabizau.github.io/github-profile-languages/api.html?brian-weloba) -->
-
 # Tech Stack
 
 ### Front End
@@ -73,25 +42,4 @@ Now Playing: <a href="https://now-playing-sooty.vercel.app/now-playing?open"><im
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 
-![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-<!--
-**Brian-Weloba/Brian-Weloba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg) -->
