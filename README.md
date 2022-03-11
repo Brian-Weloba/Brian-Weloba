@@ -12,18 +12,26 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://now-playing-sooty.vercel.app/now-playing?open"><img src="https://now-playing-sooty.vercel.app/now-playing" width="540" height="64"></a> |
+| <a href="https://now-playing-sooty.vercel.app/now-playing?open"><img src="https://now-playing-sooty.vercel.app/now-playing" width="540" height="94"></a> |
 
 
+# Stats
 
 <a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
-    <img alt="Brian Weloba's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brian-weloba&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
+    <img alt="Brian Weloba's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brian-weloba&bg_color=0D1117&color=ffffff&line=e64719&point=FFFFFF&hide_border=false" />
 </a>
 
- <h6>Profile Visits : <img src="https://profile-counter.glitch.me/brian-weloba/count.svg" width="150px"/></h6>
+<a href="https://github.com/brian-weloba/brian-weloba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
+</a>
+<a href="https://github.com/brian-weloba/brian-weloba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=e64719&icon_color=e64719&bg_color=0D1117" alt="Martin's GitHub Stats" />
+</a>
+
+<!-- 
 # Status
 
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- 
 [![Brian's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -38,9 +46,9 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 <a href="https://github.com/brian-weloba">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a> -->
-<a href="https://github.com/brian-weloba">
+<!-- <a href="https://github.com/brian-weloba">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+</a> -->
 <!-- 
 ![trophy](https://github-profile-trophy.vercel.app/?username=brian-weloba&title=Commit,Stars,Repositories,PullRequest,Followers&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
