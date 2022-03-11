@@ -8,6 +8,14 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 
 ⚡ Fun fact: My middle name, Nyongesa, means I was born on a Saturday.
 
+# Vibe with me
+
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://now-playing-rab23io2s-brian-weloba.vercel.app/now-playing?open"><img src="https://now-playing-rab23io2s-brian-weloba.vercel.app/now-playing" width="540" height="64"></a> |
+
+
+
 <a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
     <img alt="Brian Weloba's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brian-weloba&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
 </a>
