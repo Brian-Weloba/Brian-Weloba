@@ -44,4 +44,4 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 
 <!-- ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg) -->
 
-![Bweloba](gitartwork.svg)
+<!-- ![Bweloba](gitartwork.svg) -->
