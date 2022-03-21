@@ -1,7 +1,7 @@
 name: Python
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/288 * * * *"
 
 jobs:
   build:
