@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/Brian-Weloba/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
  
 I am Brian, a budding Designer/Developer and general tinkerer.
@@ -10,11 +8,12 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 
 ⚡ Fun fact: My middle name, Nyongesa, means I was born on a Saturday.
 
-<!-- # Vibe with me
-<img src="spotify.png"  height="24">  Now Playing: <a href="https://now-playing-sooty.vercel.app/now-playing?open"><img src="https://now-playing-sooty.vercel.app/now-playing" width="1000" height="64"></a>
+# Vibe with me
+<!--<img src="spotify.png"  height="24">  Now Playing: <a href="https://now-playing-sooty.vercel.app/now-playing?open"><img src="https://now-playing-sooty.vercel.app/now-playing" width="1000" height="64"></a>-->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cd35kqylcwjxlve5eg4ccnhw4m&unique={true|1|on|yes}&width=1000)
- -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cd35kqylcwjxlve5eg4ccnhw4m&width=1000&unique={true|1|on|yes}&count=10)
+
+
 
 # Stats
 
@@ -22,12 +21,16 @@ I am Brian, a budding Designer/Developer and general tinkerer.
     <img alt="Brian Weloba's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brian-weloba&bg_color=0D1117&color=ffffff&line=e64719&point=FFFFFF&hide_border=false" />
 </a>
 
-<a href="https://github.com/brian-weloba/brian-weloba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
-</a>
-<a href="https://github.com/brian-weloba/brian-weloba">
+<!--<a href="https://github.com/brian-weloba/brian-weloba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
+</a>-->
+
+![](https://raw.githubusercontent.com/Brian-Weloba/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/brian-weloba/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+<!--<a href="https://github.com/brian-weloba/brian-weloba">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=e64719&icon_color=e64719&bg_color=0D1117" alt="Martin's GitHub Stats" />
-</a>
+</a>-->
 
 # Tech Stack
 
