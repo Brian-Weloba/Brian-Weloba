@@ -11,7 +11,7 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 # Vibe with me
 <!--<img src="spotify.png"  height="24">  Now Playing: <a href="https://now-playing-sooty.vercel.app/now-playing?open"><img src="https://now-playing-sooty.vercel.app/now-playing" width="1000" height="64"></a>-->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cd35kqylcwjxlve5eg4ccnhw4m&width=1000&unique={true|1|on|yes}&count=10)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cd35kqylcwjxlve5eg4ccnhw4m&width=1000&unique={true|1|on|yes}&count=5)
 
 
 
