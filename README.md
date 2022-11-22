@@ -24,9 +24,9 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 <!--<a href="https://github.com/brian-weloba/brian-weloba">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
 </a>-->
-
+<!-- 
 ![](https://raw.githubusercontent.com/Brian-Weloba/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/brian-weloba/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/brian-weloba/github-stats/master/generated/overview.svg#gh-dark-mode-only) -->
 
 <!--<a href="https://github.com/brian-weloba/brian-weloba">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-weloba&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=e64719&icon_color=e64719&bg_color=0D1117" alt="Martin's GitHub Stats" />
