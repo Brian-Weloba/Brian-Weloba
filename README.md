@@ -15,12 +15,12 @@ I am Brian, a budding Designer/Developer and general tinkerer.
 
 
 
-# Stats
-
+<!-- # Stats -->
+<!-- 
 <a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
     <img alt="Brian Weloba's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brian-weloba&bg_color=0D1117&color=ffffff&line=e64719&point=FFFFFF&hide_border=false" />
 </a>
-
+ -->
 <!--<a href="https://github.com/brian-weloba/brian-weloba">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-weloba&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
 </a>-->
