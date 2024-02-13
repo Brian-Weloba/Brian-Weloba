@@ -1,12 +1,28 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
- 
-I am Brian, a budding Designer/Developer and general tinkerer.
 
-🔭 I’m currently working on microservices with spring boot.
+I'm Brian Weloba, a Software Engineer with a passion for designing and developing innovative solutions.
 
-🌱 I’m learning Spring, Wordpress, C# and AWS
+🔭 I’m currently working on microservices with Spring Boot at Modefin, a global fintech solution provider.
+
+🌱 I’m learning Spring, Wordpress, C#, and AWS to expand my skill set and stay updated with the latest technologies.
 
 ⚡ Fun fact: My middle name, Nyongesa, means I was born on a Saturday.
+
+## Skills
+- Full-stack Development: Java (Spring Boot, Web/Security/JPA), React, Angular, TypeScript, REST APIs, microservices, cloud-native concepts.
+- Database Management: MySQL, Oracle DB, MSSQL.
+- Web Servers: Apache Tomcat, WebLogic.
+- Problem-Solving and Leadership: Agile methodologies, team leadership.
+- Adaptability and Growth: Quick learner, ability to implement best practices.
+
+## Work Experience
+- Modefin Digital Banking Solutions: Contributed to the development and support of digital banking solutions for renowned banks in Africa, ensuring seamless integration and client satisfaction.
+- MyChoiceTV VOD Service: Led the implementation of the casting feature on Android, improving user experience and accessibility across various platforms.
+
+## Contact Me
+- 📧 Email: bweloba@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/brian-weloba](https://www.linkedin.com/in/brian-weloba)
+- 🌐 GitHub: [github.com/Brian-Weloba](https://github.com/Brian-Weloba)
 
 # Vibe with me
 <img src="spotify.png"  height="24">  Now Playing: <a href="https://now-playing-sooty.vercel.app/now-playing?open"><img src="https://now-playing-sooty.vercel.app/now-playing" width="1000" height="64"></a>
