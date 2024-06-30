@@ -74,14 +74,10 @@ I'm Brian Weloba, a Software Engineer with a passion for designing and developin
 <img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&theme=radical"/>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=brian-weloba&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
-
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center">
-  Visitor count<br>
+<div align="center">
+  Visitor count <br>
   <img src="https://profile-counter.glitch.me/_brian-weloba/count.svg" />
-</p>
+</div>
 
 <!-- ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg) -->
 
