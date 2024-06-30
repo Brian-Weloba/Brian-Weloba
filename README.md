@@ -64,6 +64,25 @@ I'm Brian Weloba, a Software Engineer with a passion for designing and developin
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=brian-weloba&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=brian-weloba&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+
+<img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=brian-weloba&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=brian-weloba&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+
+
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_brian-weloba/count.svg" />
+</p>
+
 <!-- ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![Bweloba](gitartwork.svg) -->
