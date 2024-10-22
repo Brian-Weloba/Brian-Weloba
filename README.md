@@ -2,7 +2,7 @@
 
 I'm Brian Weloba, a Software Engineer with a passion for designing and developing innovative solutions.
 
-🔭 I’m currently working on microservices with Spring Boot at Modefin, a global fintech solution provider.
+🔭 I’m currently studying my Masters at Coventry University
 
 🌱 I’m learning Spring, Wordpress, C#, and AWS to expand my skill set and stay updated with the latest technologies.
 
